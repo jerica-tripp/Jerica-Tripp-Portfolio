@@ -2,4 +2,4 @@
 
 ## Jerica Tripp Portfolio
 
-![Image description](image.png)
+![Jerica Tripp Profile Picture](https://github.com/jerica-tripp/Jerica-Tripp-Portfolio/blob/main/JericaTripp.png)
