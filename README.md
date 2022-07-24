@@ -1,4 +1,4 @@
-## [About]([https://jerica-tripp.github.io/Jerica-Tripp-Portfolio/About.html]) | [Projects](About.md) | [Contact](About.md) 
+## [About](https://jerica-tripp.github.io/Jerica-Tripp-Portfolio/About.html) | [Projects](About.md) | [Contact](About.md) 
 
 ## Jerica Tripp Portfolio
 
