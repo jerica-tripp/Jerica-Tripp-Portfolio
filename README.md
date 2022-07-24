@@ -1,8 +1,10 @@
+## [About](About.md)
+
 ## Jerica Tripp Portfolio
 
 Welcome! 
 
-[a relative link](About.md)
+
 
 ### Markdown
 
