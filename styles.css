@@ -2,7 +2,11 @@ img {
   width: 250px;
   border: 3px solid hotpink;
   float: left;
-  margin-right: 1em;
+  margin-right: 1em !important;
 }
 
-
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
