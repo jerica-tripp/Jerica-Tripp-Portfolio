@@ -17,7 +17,7 @@ Together, my team and I create dynamic business intelligence solutions for our c
 <div class="clearfix">
     <h1> Education</h1>
     <ul>
-        <li>Bachelors Computer Science, Wilmington University, 2020</li>
+        <li>Bachelor of Computer Science, Wilmington University, 2020</li>
         <li>Master of Data Sciecne, Bellevue University, In Progress</li>
     </ul>
     <br>
