@@ -22,11 +22,12 @@ Together, my team and I create dynamic business intelligence solutions for our c
     </ul>
     <br>
     <br>
-
-    <div>
-        <span class='wordBlock'>SQL</span>
-        <span class='wordBlock'>Python</span>
-        <span class='wordBlock'>Exploratory Data Analysis</span>
-    </div>
 </div>
+
+<div>
+    <span class='wordBlock'>SQL</span>
+    <span class='wordBlock'>Python</span>
+    <span class='wordBlock'>Exploratory Data Analysis</span>
+</div>
+
 
