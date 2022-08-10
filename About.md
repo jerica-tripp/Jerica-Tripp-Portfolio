@@ -1,6 +1,10 @@
 <link rel="stylesheet" href="styles.css">
 
+
+
 <h1>Jerica Tripp</h1>
+
+
 
 <nav>
     <a href="https://jerica-tripp.github.io/Jerica-Tripp-Portfolio/About.html">About</a>
