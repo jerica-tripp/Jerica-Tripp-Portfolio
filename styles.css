@@ -1,8 +1,55 @@
+
+html, body {
+  margin: 0;
+}
+
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+h1 {
+  font-size: 3rem;
+  margin: 1rem 0;
+  font-weight: 300;
+}
+
+header, footer {
+  background: rgb(52, 52, 52);
+  color: white;
+}
+
+header {
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+footer {
+  min-height: 100px;
+  padding: 1rem;
+}
+
+main { 
+  min-height: calc(100vh - 200px)
+}
+
+header a {
+  color: white;
+}
+
+.centerer {
+  width: calc(100% - 40px);
+  max-width: 850px;
+  margin: auto;
+}
+
 img {
   width: 250px;
   border: 3px solid black;
   float: left;
   margin-right: 1em !important;
+
 }
 
 .clearfix::after {
@@ -20,10 +67,11 @@ nav {
 }
 
 nav a {
-  font-size: 2rem;
+  font-size: 1.3rem;
   display: inline-block; 
   padding: 0 .5rem;
-  border-right: 2px solid black;
+  border-right: 2px solid grey;
+  font-weight: 300;
 }
 
 nav a:last-child {
