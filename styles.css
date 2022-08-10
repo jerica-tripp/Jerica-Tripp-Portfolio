@@ -10,3 +10,6 @@ img {
   clear: both;
   display: table;
 }
+.wordBlock{
+  display: inline-block;
+}
