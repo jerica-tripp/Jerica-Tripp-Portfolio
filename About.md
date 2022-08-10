@@ -25,9 +25,9 @@ Together, my team and I create dynamic business intelligence solutions for our c
 </div>
 
 <div>
-    <span class='wordBlock'>SQL</span>
-    <span class='wordBlock'>Python</span>
-    <span class='wordBlock'>Exploratory Data Analysis</span>
+    <span class='wordBlock' style="background:lightblue;">SQL</span>
+    <span class='wordBlock' style="background:lightgreen;">Python</span>
+    <span class='wordBlock'style="background:lightred;">Exploratory Data Analysis</span>
 </div>
 
 
