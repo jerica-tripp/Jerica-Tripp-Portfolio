@@ -81,3 +81,7 @@ nav a:last-child {
 .skill-block{
   padding: 0.1rem;
 }
+
+.contact-list{
+  list-style: none;
+}
