@@ -28,6 +28,7 @@ header {
 footer {
   min-height: 100px;
   padding: 1rem;
+  margin-top: 3rem;
 }
 
 main { 
@@ -44,7 +45,7 @@ header a {
   margin: auto;
 }
 
-img {
+.img-hdsht {
   width: 250px;
   border: 3px solid black;
   float: left;
@@ -59,7 +60,7 @@ img {
 }
 .word-block{
   display: inline-block;
-  padding: .7rem 1rem;
+  padding: .7em 1em;
 }
 
 nav {
@@ -80,8 +81,39 @@ nav a:last-child {
 
 .skill-block{
   padding: 0.1rem;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.small{
+  font-size: 10px;
 }
 
 .contact-list{
   list-style: none;
+}
+
+.project{
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 1rem;
+}
+
+.project img{
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 7px;
+}
+
+.proj-text{
+  background-color: rgb(222, 222, 222);
+  padding: 1rem;
+  border-radius: 7px;
+
+}
+
+.proj-text :is(h3, p):first-child {
+  margin-top: 0;
 }
