@@ -96,22 +96,35 @@ nav a:last-child {
 }
 
 .project{
+  background-color: rgb(238, 238, 238);
+  border-radius: 7px;
   display: grid;
-  grid-template-columns: 150px 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr auto;
+  grid-template-areas: "image text"
+                       "image tags";
   gap: 1rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+
 }
 
 .project img{
   width: 100%;
-  aspect-ratio: 1 / 1;
   border-radius: 7px;
 }
 
-.proj-text{
-  background-color: rgb(222, 222, 222);
-  padding: 1rem;
-  border-radius: 7px;
+.project > a {
+  grid-area: image;
+  display: block;
+}
 
+.proj-text{
+  grid-area: text;
+}
+
+.project .skill-block {
+  grid-area: tags;
 }
 
 .proj-text :is(h3, p):first-child {
